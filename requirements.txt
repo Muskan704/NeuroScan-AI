@@ -1,0 +1,8 @@
+streamlit==1.50.0
+torch
+torchvision
+pandas
+numpy
+pillow
+matplotlib
+reportlab
