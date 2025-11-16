@@ -77,6 +77,9 @@ pillow
 matplotlib
 reportlab
 
+### 🚀 Live Demo  
+👉 **Try the App:**  
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?logo=streamlit)](https://neuroscan-ai-detector.streamlit.app/)
 
 🩺 Disclaimer
 
