@@ -31,12 +31,12 @@ BRAIN_TUMOR/
 └── README.md
 
 ⚙️ Installation & Setup
+
 🧭 Step 1 — Clone the Repository
 git clone https://github.com/YOUR-USERNAME/NeuroScan-AI.git
 cd NeuroScan-AI
 
 🧭 Step 2 — Create a Virtual Environment (⚠️ Required)
-
 Creating a virtual environment ensures package isolation.
 
 For Windows
@@ -46,7 +46,6 @@ venv\Scripts\activate
 For macOS / Linux
 python3 -m venv venv
 source venv/bin/activate
-
 
 ⚠️ Note: You must activate the virtual environment before installing dependencies, otherwise the app may fail due to version conflicts.
 
